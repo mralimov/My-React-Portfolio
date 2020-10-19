@@ -2,8 +2,9 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/joshkuruvilla512/react-portfolio",
+  "homepage": "https://github.com/mralimov/My-React-Portfolio",
   "dependencies": {
+    "nodemon": "^2.0.5",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-router": "^5.1.2",
