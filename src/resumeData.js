@@ -68,19 +68,19 @@ let resumeData = {
       name: 'Groceteria',
       description: 'Grocery Store',
       imgurl: './images/Groceteria.PNG',
-      imglink: 'https://kgeary.github.io/atxnow/',
+      imglink: 'https://github.com/mbesemann/Groceteria',
     },
     {
       name: 'Password Generator',
       description: 'Random password generator',
       imgurl: './images/Password Generator JS.PNG',
-      imglink: 'https://github.com/joshkuruvilla512/Homework2',
+      imglink: 'https://github.com/mralimov/Password-Generator',
     },
     {
       name: 'Productivity Booster',
       description: 'Office productivity app',
       imgurl: './images/Productivity booster.PNG',
-      imglink: 'https://github.com/joshkuruvilla512/JoshKuruvilla.github.io',
+      imglink: 'https://github.com/christopherjbourque/project1',
     },
   ],
 };
